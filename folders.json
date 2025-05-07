@@ -1,0 +1,21 @@
+{
+    "domains": [
+      {
+        "name": "School",
+        "types": ["Documents", "Spreadsheets"]
+      },
+      {
+        "name": "Coding",
+        "types": ["Scripts", "Libraries"]
+      },
+      {
+        "name": "References",
+        "types": ["Images", "Text Files"]
+      },
+      {
+        "name": "Documents",
+        "types": ["PDF", "Text Files"]
+      }
+    ]
+  }
+  
