@@ -1,0 +1,34 @@
+{
+    "name" : "FileOrganizer",
+    "dir": [
+        {
+            "name": "School",
+            "dir": [
+                {
+                    "name": "Documents",
+                    "extensions": [
+                        ".docx",
+                        ".pdf",
+                        ".txt"
+                    ]
+                },
+                {
+                    "name": "Spreadsheets",
+                    "extensions": [
+                        ".xlsx",
+                        ".csv"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Media",
+            "extensions": [
+                ".mp3",
+                ".mp4",
+                ".jpg",
+                ".png"
+            ]
+        }
+    ]
+}
